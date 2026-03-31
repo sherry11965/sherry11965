@@ -1,7 +1,7 @@
 ## Hi there 👋
-<!-- 打字机效果 -->
+<!-- 访客计数和徽章 -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/你的用户名?label=Followers&style=flat-square&color=6A5ACD" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/你的用户名?label=Stars&style=flat-square&color=FFD700" alt="GitHub Stars" />
 </div>
